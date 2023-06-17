@@ -8,6 +8,10 @@ This is a web page project created from scratch, without any library, framework.
 
 ![plot](images/01_headphones_desktop@2x.png)
 
+### Screenshot
+
+![plot](images/Captura.png)
+
 ## Install
 
 * Clone this repository: `https://github.com/alejuran/holbertonschool-headphones.git`
